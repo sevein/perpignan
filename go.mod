@@ -1,3 +1,3 @@
-module github.com/sevein/perpignan.git
+module github.com/sevein/perpignan
 
-go 1.24.0
+go 1.24
